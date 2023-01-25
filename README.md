@@ -54,7 +54,7 @@ QR_Decomposition(a)
 ## Output
 
 ![output](/Screenshot%202023-01-17%20201614.jpg)
-![output](/Screenshot%202023-01-17%20201831.jpg)
+![output](/Screenshot%202023-01-25%20200819.png)
 
 
 ## Result
